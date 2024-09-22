@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  @apply bg-c-200;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  @apply text-white;
+}
+
+p {
+  @apply text-white/50;
+}
+
+code {
+  @apply bg-c-300 text-c-code font-mono h-min w-min px-2 py-[2px] rounded-md text-sm;
+}
