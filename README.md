@@ -2,16 +2,10 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-First, run the development server:
+First, clone the template:
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+git clone https://github.com/danilppzz/Next-Template.git
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
