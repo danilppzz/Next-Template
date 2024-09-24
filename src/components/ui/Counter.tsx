@@ -9,7 +9,6 @@ const Counter: React.FC = () => {
 
     return (
         <div>
-
             <div className='flex gap-2 items-center'>
                 <button className='w-8 h-8 p-auto text-white/40 rounded-lg bg-c-300' onClick={decrease}>-</button>
                 <button className='w-14 h-8 p-auto text-white/40 rounded-lg bg-c-300' onClick={increment}>{count}</button>
